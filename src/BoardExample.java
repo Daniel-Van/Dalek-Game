@@ -8,7 +8,7 @@ import java.awt.Color;
  */
 /**
  *
- * @author vand5950
+ * @author DanielVan
  */
 public class BoardExample {
 
